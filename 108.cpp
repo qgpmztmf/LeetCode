@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // 108. Convert Sorted Array to Binary Search Tree
+=======
+>>>>>>> c646e5e335a71d26aca0179c4541a7247cfc9314
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -27,4 +30,8 @@ public:
             return root;
         }
     }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> c646e5e335a71d26aca0179c4541a7247cfc9314
